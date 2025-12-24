@@ -13,3 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Output
 - Calculated simple interest
+
